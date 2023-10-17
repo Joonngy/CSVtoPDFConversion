@@ -1,0 +1,25 @@
+{
+  "name": "0_random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pdfkit": "^0.13.0",
+    "@types/pdfmake": "^0.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "csv-parser": "^3.0.0",
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.99",
+    "pdfkit-table-ts": "^0.0.14",
+    "pdfmake": "^0.2.7"
+  }
+}
