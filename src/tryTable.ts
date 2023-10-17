@@ -2,6 +2,7 @@ import * as fs from "fs";
 import * as csv from "csv-parser";
 import PDFDocument from "pdfkit-table";
 
+const test="1";
 const inputFile = "./addresses.csv";
 const outputFile = "./document.pdf";
 
